@@ -12,8 +12,6 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # NameMagic AI - Personality Prediction App
 
-Preview](https://i.ibb.co/6RgqS0z/name-preview.png)
-
 A modern web application that predicts personality traits based on names, featuring AI-powered analytics and interactive elements.
 
 ## ✨ Features
